@@ -38,5 +38,5 @@ uv run playwright install chromium
 
 ---
 
-![image](https://github.com/appfromapexxx/realtime-lotto/terminal.png)
-![image](https://github.com/appfromapexxx/realtime-lotto/lotto_website.png)
+![image](https://github.com/appfromapexxx/realtime-lotto/blob/main/terminal.png)
+![image](https://github.com/appfromapexxx/realtime-lotto/blob/main/lotto_website.png)
